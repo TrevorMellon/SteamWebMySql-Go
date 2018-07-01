@@ -6,7 +6,7 @@ import (
 	"log"
 	"strconv"
 	"time"
-	"tmp/SteamCommon"
+	"github.com/TrevorMellon/SteamWebCommon-Go"
 	"unicode/utf8"
 
 	_ "github.com/go-sql-driver/mysql"

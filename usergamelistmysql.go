@@ -2,7 +2,7 @@ package SteamMySql
 
 import (
 	"log"
-	"tmp/SteamCommon"
+	"github.com/TrevorMellon/SteamWebCommon-Go"
 
 	_ "github.com/go-sql-driver/mysql"
 )
